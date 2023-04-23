@@ -82,3 +82,4 @@ function ladoRandomico(){
 		return 'ladoB'
 	}
 }
+console.log("teste")
